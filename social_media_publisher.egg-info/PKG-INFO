@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: social-media-publisher
+Version: 0.1.0
+Summary: A library for automated social media publishing
+Author: Joe
+Requires-Python: >=3.8
+Requires-Dist: selenium>=4.0.0
+Requires-Dist: webdriver-manager>=3.8.0
+Requires-Dist: pydantic>=2.0.0
+Requires-Dist: Pillow>=9.0.0
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
